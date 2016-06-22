@@ -2,6 +2,6 @@
 ## Connects and disconnects remotely the click relay
 
 To run:
-
-1. $ npm install
-2. $ npm start 
+1. $ make
+2. $ npm install
+3. $ npm start 
